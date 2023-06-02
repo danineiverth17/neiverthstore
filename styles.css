@@ -4,3 +4,6 @@
     body {
         background-color: var(--cor-de-fundo);
         }
+        h1 {
+            background-color: rgb(22, 211, 186);
+            }
